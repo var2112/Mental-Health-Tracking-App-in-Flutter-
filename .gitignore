@@ -50,4 +50,4 @@ app.*.map.json
 
 # Mockups
 Mockups/
-assets/service.json
+assets/service
